@@ -19,7 +19,7 @@ Step-by-Step Process
        'password': 'v^4!C%CQ94f0'
       }
  
-   - Upon success, the token is retrieved from the response.
+   - Upon success, The response will generate and the token is retrieved from the response.
      
 
  4. Movie API: 
